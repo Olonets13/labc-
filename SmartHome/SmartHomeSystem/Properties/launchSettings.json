@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SmartHomeSystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
